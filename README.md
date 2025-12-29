@@ -19,5 +19,5 @@ This repository simulates a real-world CRM implementation for a mid-size B2B Saa
 - Recruiters looking for real-world implementation experience
 
 ## How to navigate
-Start with `/0_project-context/problem-statement.md` and follow folders sequentially to see how discovery turns into solution design and execution.
+Start with `0_project-context/problem-statement.md` and follow folders sequentially to see how discovery turns into solution design and execution.
 
